@@ -4,11 +4,11 @@
 
 1. Autumn in the Neighborhood
 
-![Autumn in the Neighborhood](galison/500/autumn_in_the_neighborhood.png)
+<img src="galison/500/autumn_in_the_neighborhood.png" alt="Forest" style="width:250px">
 
 2. Autumn Market
 
-![Autumn Market](:galison/500/autumn_market.png)
+![Autumn Market](galison/500/autumn_market.png)
 
 3. Autumn Stroll
 
