@@ -8,7 +8,7 @@
 
 2. Autumn Market
 
-![Autumn Market](galison/500/autumn_market.png)
+![Autumn Market](:galison/500/autumn_market.png)
 
 3. Autumn Stroll
 
