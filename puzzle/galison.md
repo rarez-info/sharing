@@ -4,7 +4,10 @@
 
 1. Autumn in the Neighborhood
 
-<img src="galison/500/autumn_in_the_neighborhood.png" alt="Forest" style="width:250px">
+<a target="_blank" href="galison/500/autumn_in_the_neighborhood.png">
+  <img src="galison/500/autumn_in_the_neighborhood_tn.jpg" alt="Forest" style="width:500px">
+</a>
+
 
 2. Autumn Market
 
